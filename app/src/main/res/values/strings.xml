@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ToDoGo</string>
+    <string name="app_logo">App Logo</string>
+    <string name="tasks">Tasks</string>
+    <string name="mark_all_tasks_as_done">Mark all tasks as done</string>
+    <string name="delete_all_tasks">Delete all tasks</string>
+    <string name="add_task">Add task</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="title_placeholder">Clean your room</string>
+    <string name="description_placeholder">Place your books on the bookshelf</string>
+    <string name="set_date_and_time">Set date and time</string>
+    <string name="date_placeholder">DD/MM/YYYY</string>
+    <string name="time_placeholder">HH:MM</string>
+    <string name="image">Image</string>
+    <string name="task_added">Task added successfully!</string>
+    <string name="done">Done</string>
+    <string name="clear_all">Done with all your stuffs?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="delete_all">Do you want to delete all the tasks?</string>
+    <string name="history">History</string>
+    <string name="about">About</string>
+    <string name="github">Github</string>
+    <string name="version">version 1.0</string>
+    <string name="explore_more_apps">Explore more apps</string>
+    <string name="edit">Edit</string>
+    <string name="mark_as_done">Mark as done</string>
+    <string name="delete">Delete</string>
+    <string name="sign_in_with_google">Sign in with google</string>
+    <string name="you_are_all_done">You are all done</string>
+    <string name="no_history">No history</string>
+    <string name="delete_history">Delete history</string>
+    <string name="mark_as_undone">Mark As Undone</string>
+    <string name="add_task_button">Add task Button</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="nyanza">#AADCB5</color>
+    <color name="lavender_blue">#C9B4E3</color>
+    <color name="salmon_pink">#F4989C</color>
+    <color name="bisque">#DDC19E</color>
+    <color name="primaryColor">#00548e</color>
+    <color name="secondaryColor">#0188B1</color>
+    <color name="blizzard_blue">#A0DAE4</color>
+    <color name="lavender_blue_light">#E6D7FA</color>
+    <color name="lime">#FFDF7E</color>
+    <color name="card_background_light">#D5F0F8</color>
+    <color name="card_background_dark">#404040</color>
+</resources>
